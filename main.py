@@ -73,7 +73,7 @@ def add_task():
         "created_at": str(datetime.datetime.now())
     }
     tasks[f"Task with ID: {myuuid}"] = task
-    print("Your yask was added with status 'incomplete'")
+    print("Your task was added with status 'incomplete'")
 
 
     a = str(input("Do you change status? (y/n):")).lower()
@@ -214,4 +214,5 @@ def filtred_task():
             return back_to_menu()
 
 if __name__ == "__main__":
+
     main()
