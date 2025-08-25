@@ -13,7 +13,7 @@ Allows you to add, view, delete, and filter tasks. All tasks are stored in a JSO
 
 ## 🛠️ Technologies
 - Python 3
-- Modules: `json`, `os`, `random`, `datamine`
+- Modules: `json`, `os`, `random`, `datatime`
 
 ## ▶️ Run
 ```bash
