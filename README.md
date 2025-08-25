@@ -13,7 +13,7 @@ Allows you to add, view, delete, and filter tasks. All notes are stored in a JSO
 
 ## 🛠️ Technologies
 - Python 3
-- Modules: `json`, `os`, `datetime`, `random`
+- Modules: `json`, `os`, `random`
 
 ## ▶️ Run
 ```bash
