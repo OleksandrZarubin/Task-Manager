@@ -2,7 +2,7 @@
 # Note Manager
 
 A simple console-based task manager written in Python.  
-Allows you to add, view, delete, and filter tasks. All tasks are stored in a JSON file.
+Allows you to add, view, delete, and filter tasks. All notes are stored in a JSON file.
 
 ## ⚡ Features
 - Add tasks with unique IDs
