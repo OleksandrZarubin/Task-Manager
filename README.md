@@ -1,5 +1,5 @@
 
-# Task Manager
+# Note Manager
 
 A simple console-based task manager written in Python.  
 Allows you to add, view, delete, and filter tasks. All tasks are stored in a JSON file.
